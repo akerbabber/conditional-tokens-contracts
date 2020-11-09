@@ -25,6 +25,7 @@
   "author": "Gnosis (https://gnosis.io)",
   "license": "LGPL-3.0",
   "dependencies": {
+    "@chainlink/contracts": "^0.0.11",
     "openzeppelin-solidity": "2.3.0"
   },
   "devDependencies": {
